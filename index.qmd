@@ -1,8 +1,8 @@
 ---
 title: "Lucas Hussey"
-subtitle: "RMI 4226"
+subtitle: "USF Student"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
-image: profile.jpg
+image: Portrait.jpeg
 about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
   links:
@@ -11,15 +11,15 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://github.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/lucashussey
 ---
 
-A little bit about me and my life.
+My name is Lucas and I am 21, I am a student at USF Majoring in Risk Management and Insurance. I also will be working at AIG as an underwriter for Construction & Energy after graduating.
 
 ## Education
 
-University of XYZ, City \| Location \| Sept 20XX - June 20XX
+University of South Florida, Tampa \| Sept 2022 - June 2026
 
 ## Experience
 
-Workplace \| Job title \| April 20XX - present
+Home Inspector \| Independent Contractor \| April 2025 - present
